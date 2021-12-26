@@ -1,0 +1,23 @@
+{
+  "name": "koabasics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./koaBasics.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeyazGolge/koaBasics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BeyazGolge/koaBasics/issues"
+  },
+  "homepage": "https://github.com/BeyazGolge/koaBasics#readme",
+  "dependencies": {
+    "koa": "^2.13.4"
+  }
+}
